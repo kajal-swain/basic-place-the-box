@@ -1,0 +1,9 @@
+div{
+    background-color: green;
+    width: 250px;
+    height: 150px;
+    margin: 0;
+    position: absolute;               /* 2 */
+    bottom: 0;                         /* 3 */
+
+}
